@@ -1,0 +1,32 @@
+.nav{
+  background-color: #b3f0ff;
+  display: flex;
+  padding: 10px;
+  
+}
+li{
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  font-size: 17.5px;
+  
+}
+#heading{
+  text-align: center;
+}
+  
+.container{
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+  margin-left: 350px;
+}
+#box{
+  width: 70%;
+}
+.btn{
+  margin: 2.5px;
+}
+img{
+  width: 90px;
+  margin-left: 950px;
+}
